@@ -23,7 +23,7 @@ def barra(valor, maximo=100, tamanho=40):
 
 
 def painel():
-    alvo = "LAB-TESTE"
+    alvo = "bancocn.com"
     rps = 0
     total = 0
     bloqueado = False
